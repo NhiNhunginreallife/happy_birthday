@@ -13,7 +13,7 @@ const CONFIG = {
     btnReply: 'NHẤN GỬI BẰNG TÌNH YÊU',
     reply: ' Mãi mãi tuổi 18, yên bình, hạnh phúc chị nha❤❤❤ ',
     mess: 'Moazzz 😘😘 ',
-    messDesc: 'Cảm ơn chị rất nhiều ..& happy birthdayyyyy.🥰',
+    messDesc: 'Cảm ơn chị đã đến với thế giới này ..& happy birthdayyyyy to you.🥰',
     btnAccept: 'Okiiiii lun❤',
     messLink: 'https://www.facebook.com/MunMumMim' 
 }
